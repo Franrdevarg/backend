@@ -1,7 +1,7 @@
 import express from "express"
 
 
-console.log("hola mundo")
+console.log("hola mundo 2")
 
 //  1 configurar los puertos 
 
